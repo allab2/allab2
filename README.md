@@ -1,6 +1,6 @@
-# Data Engineer | Cloud Data Platforms | Python, SQL, PySpark, Airflow, GCP, AWS, Databricks
+# Data Engineer | Cloud Data Platforms | Python, SQL, PySpark, Airflow, GCP, AWS, Azure, Databricks
 
-I build scalable data pipelines and cloud-native data platforms that turn raw data into reliable, analytics-ready datasets. My work spans batch and streaming workflows, data quality frameworks, and production-grade orchestration across GCP, AWS, and modern lakehouse environments.
+I build scalable data pipelines and cloud-native data platforms that turn raw data into reliable, analytics-ready datasets. My work spans batch and streaming workflows, data quality frameworks, and production-grade orchestration across GCP, AWS, Azure, and modern lakehouse environments.
 
 ---
 
@@ -21,7 +21,7 @@ I build scalable data pipelines and cloud-native data platforms that turn raw da
 
 ### Cloud & Data Platforms
 
-`GCP` · `AWS` · `Azure (basics)` · `Databricks` · `Snowflake` · `BigQuery` · `DataProc` · `Glue`
+`GCP` · `AWS` · `Azure` · `Databricks` · `Snowflake` · `BigQuery` · `DataProc` · `Glue`
 
 ### Data Engineering
 
@@ -93,5 +93,5 @@ This profile is focused on **practical data engineering projects**, **production
 | | |
 |---|---|
 | **GitHub** | [github.com/allab2](https://github.com/allab2) |
-| **LinkedIn** | [Add your profile](https://linkedin.com/in/your-profile) |
-| **Email** | [Reach out via GitHub](https://github.com/allab2) |
+| **LinkedIn** | [linkedin.com/in/srialla](https://www.linkedin.com/in/srialla) |
+| **Email** | [srialla851@gmail.com](mailto:srialla851@gmail.com) |
