@@ -1,9 +1,97 @@
+# Data Engineer | Cloud Data Platforms | Python, SQL, PySpark, Airflow, GCP, AWS, Databricks
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+I build scalable data pipelines and cloud-native data platforms that turn raw data into reliable, analytics-ready datasets. My work spans batch and streaming workflows, data quality frameworks, and production-grade orchestration across GCP, AWS, and modern lakehouse environments.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=allab2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- I focus on building **reliable, scalable, and maintainable** data pipelines.
+- I work across **batch, streaming, and near real-time** data processing.
+- I care about **data quality, automation, pipeline reliability, and performance optimization**.
+- I am continuously strengthening skills around **modern data platforms, lakehouse architectures, streaming ingestion, and AI-assisted data engineering workflows**.
+
+---
+
+## Technical Skills
+
+### Languages
+
+`Python` · `SQL` · `PySpark` · `Shell scripting`
+
+### Cloud & Data Platforms
+
+`GCP` · `AWS` · `Azure (basics)` · `Databricks` · `Snowflake` · `BigQuery` · `DataProc` · `Glue`
+
+### Data Engineering
+
+- ETL/ELT pipelines
+- Batch processing
+- Streaming pipelines
+- Data modeling
+- Data quality
+- Schema drift handling
+- Data validation
+- Pipeline optimization
+
+### Orchestration & DevOps
+
+`Airflow` · `GitHub Actions` · `Jenkins` · `Docker` · `Kubernetes` · `CI/CD`
+
+### Big Data & Streaming
+
+`Apache Spark` · `Kafka` · `Pub/Sub` · `AWS Glue` · `DataProc`
+
+### Analytics & Storage
+
+- Parquet
+- Delta Lake concepts
+- Data warehouse modeling
+- Partitioning and clustering
+- Reporting-ready datasets
+
+---
+
+## Featured Work
+
+### Data Quality & Schema Drift
+
+- [ai-data-contract-guardian](https://github.com/allab2/ai-data-contract-guardian) — Local data contract validator with schema drift detection, quality checks, and rule-based impact summaries.
+
+### Streaming & Event Data Engineering
+
+- [parse_json](https://github.com/allab2/parse_json) — Event JSON parsing and conversion utilities for ingestion and downstream pipeline workflows.
+
+### Cloud Data Pipelines
+
+- [hiring-workflow](https://github.com/allab2/hiring-workflow) — Full-stack workflow application with backend services, frontend, and infrastructure components.
+
+### Data Processing & Analytics
+
+- [Sales-Analyzer](https://github.com/allab2/Sales-Analyzer) — Python-based sales data processing, analysis, and reporting pipeline.
+
+---
+
+## Currently Building & Learning
+
+- **Databricks Lakehouse** — unified batch and streaming on Delta Lake
+- **Streaming ingestion pipelines** — event-driven architectures and low-latency delivery
+- **Data contracts & data observability** — reliability, lineage, and proactive monitoring
+- **AI-assisted data engineering** — smarter development and pipeline automation workflows
+- **Cloud-native pipeline design** — scalable, cost-aware, and maintainable platform patterns
+
+---
+
+## GitHub Focus
+
+This profile is focused on **practical data engineering projects**, **production-style pipeline design**, and **hands-on learning** around modern data platforms. Repositories here reflect real-world patterns — not toy examples — with an emphasis on reliability, clarity, and maintainability.
+
+---
+
+## Connect
+
+| | |
+|---|---|
+| **GitHub** | [github.com/allab2](https://github.com/allab2) |
+| **LinkedIn** | [Add your profile](https://linkedin.com/in/your-profile) |
+| **Email** | [Reach out via GitHub](https://github.com/allab2) |
